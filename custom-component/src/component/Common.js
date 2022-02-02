@@ -18,7 +18,7 @@ export const SubTitle = styled.div`
   height: 32px;
   font-weight: 600;
   font-size: 1.25em;
-  margin-top: 20px;
+  margin-top: 30px;
 `;
 export const SmallTitle = styled.div`
   width: 708px;
