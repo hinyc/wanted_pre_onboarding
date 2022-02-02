@@ -11,6 +11,9 @@ const ToggleContainer = styled.div`
   align-items: center;
   overflow: hidden;
   margin: 15px;
+  :hover {
+    cursor: pointer;
+  }
 `;
 
 const ToggleBackgroundFiller = styled.div`
