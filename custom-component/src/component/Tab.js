@@ -45,7 +45,7 @@ const tabs = [
 ];
 
 export default function Tab() {
-  const [select, setSelect] = useState(1);
+  const [select, setSelect] = useState(0);
 
   const selectHandler = (number) => {
     setSelect(number);
